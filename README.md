@@ -1,6 +1,6 @@
-## Your Name
+## David Johnson
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Currently attempting to fullfil a lifelong ambition to code at the Makers Academy. Having worked as a Creative (Copywriter/Art Director) in the Advertising industry for the past 20 years I am used to coming up with ideas and solutions to business problems. Along the way I've not only concepted ideas for ads, but have also worked on and produced ideas for websites, games and apps. Amazing as this experience has been, I've often felt I would have liked to have been more involved in the making process and this is my reason for wanting to learn to code.
 
 ## Projects
 
@@ -53,7 +53,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (May 2022 to August 2022)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -62,10 +62,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Central Saint Martins (Sep 1998 to July 2001)
 
-- Subject, any specialisms
-- Grade
+- BA Art, Graphic Design & Advertising
+- 2.1
 - Other cool stuff
 
 #### Any other qualifications
