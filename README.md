@@ -74,6 +74,8 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies & Interest
 
-Kickstarter addict - I like backing projects that enhance my interests and hobbies. Everything from the first auto-follow drone to portable tennis ball launchers to retro-compatible lightguns. 
+Kickstarter addict - I like backing projects that enhance my interests and hobbies. Everything from the first auto-follow drone to portable tennis ball launchers to retro-compatible lightguns.
+
+Another hobby here
 
 Any cool stuff that makes you a super part of a software development team
