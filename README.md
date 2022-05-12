@@ -1,6 +1,6 @@
 ## David Johnson
 
-Currently attempting to fullfil a lifelong ambition to code at the Makers Academy. Having worked as a Creative (Copywriter/Art Director) in the Advertising industry for the past 20 years I am used to coming up with ideas and solutions to business problems. Along the way I've not only concepted ideas for ads, but have also worked on and produced ideas for websites, games and apps. Amazing as this experience has been, I've often felt I would have liked to have been more involved in the making process and this is my reason for wanting to learn to code.
+Currently fullfilling a lifelong ambition to code at the Makers Academy. Having worked as a Creative (Copywriter/Art Director) in the Advertising industry for the past 20 years I am used to coming up with ideas and solutions to business problems. Along the way I've not only concepted ideas for ads, but have also created websites, games and apps. Amazing as this experience has been, I've often felt I would have liked to have been more involved in the making process and this is my reason for wanting to learn to code.
 
 ## Projects
 
@@ -64,7 +64,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Central Saint Martins (Sep 1998 to July 2001)
 
-- BA Art, Graphic Design & Advertising
+- BA (Hons) Art, Graphic Design & Advertising
 - 2.1
 - Other cool stuff
 
@@ -72,6 +72,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 That in some arguable way make you a better software developer or well-rounded person
 
-## Hobbies
+## Hobbies & Interest
+
+Kickstarter addict - I like backing projects that enhance my interests and hobbies. Everything from the first auto-follow drone to portable tennis ball launchers to retro-compatible lightguns. 
 
 Any cool stuff that makes you a super part of a software development team
