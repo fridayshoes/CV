@@ -1,7 +1,7 @@
 David Johnson
 =============
 
-[Projects](#projects) | [Work Experience] (#work-experience) | [Education](#education) | [Skills](#skills) | [Hobbies](#hobbies-&-interest)
+[Projects](#projects) | [Work Experience](#work-experience) | [Education](#education) | [Skills](#skills) | [Hobbies](#hobbies-&-interest)
 
 I've recently fulfilled lifelong ambition to learn to code at the Makers Academy. Having worked as a Creative (Copywriter/Art Director) in the Advertising industry for the past 20 years I am used to coming up with ideas and solutions to business problems. Along the way I've not only concepted ideas for ads, but have also created websites, games and apps. Amazing as this experience has been, I've often felt I would have liked to have been more involved in the making process and this is my reason for wanting to learn to code.
 
