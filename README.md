@@ -6,9 +6,9 @@ I've recently fulfilled lifelong ambition to learn to code at the Makers Academy
 
 | Name                             | Description                                            | Tech/tools        |
 | -------------------------------- | ------------------------------------------------------ | ----------------- |
-| **[Achoo!](https://github.com/fridayshoes/achoo-hayfever-client-react)** | Group project during Weeks 11 & 12 at Makers. A full-stack web application that helps alert hayfever suffers when the pollen count reaches seriously sneezey levels in their area | MongoDB (Atlas), Mongoose, ReactJS, Nodejs, Express, Ambee API, SMS, Cypress, JEST |
-| [**Acebook**](https://github.com/fridayshoes/acebook-node-priceless)| Week 8-9 Makers group project - Full stack Facebook clone. Originally built with Handlebars and passwords are encrypted using Bcrypt | Node.js, MongoDB, Mongoose, Express, Handlebars, Cypress, Jest |
-| [**MakersBnB**](https://github.com/fridayshoes/makers_bnb)| Week 5 Makers group project (full stack) - Airbnb clone with user registration, authentication, list a property, book a property and confirm a booking. (WIP) | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS |
+| **[Achoo!](https://github.com/fridayshoes/achoo-hayfever-client-react)** | A Full-Stack web application that uses location-based API pollen data to alert hayfever suffers when the pollen count reaches seriously sneezey levels in their area. Built as part of team project during week 11 & 12 at Makers Academy. | MongoDB (Atlas), Mongoose, ReactJS, Nodejs, Express, Ambee API, SMS, Cypress, JEST |
+| [**Acebook**](https://github.com/fridayshoes/acebook-node-priceless)| Full stack keyboard warrior clone of Facebook. Create and login to an secure account (Bcrypt), make posts and comment on other users post. Built as part of a team project during week 8 & 9 at Makers Academy. | Node.js, MongoDB, Mongoose, Express, Handlebars, Cypress, Jest, Bcrypt |
+| [**MakersBnB**](https://github.com/fridayshoes/makers_bnb)| Airbnb clone with user registration, authentication, list a property, book a property and confirm a booking. Built as part of a team project during week 5 at Makers Academy | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS |
 | [**Chitter**](https://github.com/fridayshoes/chitter-challenge)| Week 4 Makers solo weekend project (full stack) - Twitter clone with user registration, authentication, and ability to tweet. (WIP) | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS |
 
 ## Work Experience
