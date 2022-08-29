@@ -1,5 +1,10 @@
 David Johnson
 =============
+<div>
+  <a href="https://www.linkedin.com/in/david-johnson-creative/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.codecademy.com/profiles/fridayshoes"><img src="https://img.shields.io/badge/Codecademy-1F4056?logo=codecademy&logoColor=fff&style=for-the-badge"></a>
+   <a href="https://www.codewars.com/users/fridayshoes"><img src="https://img.shields.io/badge/Codewars-a83232?style=for-the-badge&logo=codewars&logoColor=white"></a>
+</div>
 
 [Projects](#projects) | [Work Experience](#work-experience) | [Education](#education) | [Skills](#skills) | [Hobbies & Interests](#hobbies-&-interests)
 
