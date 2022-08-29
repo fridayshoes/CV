@@ -1,7 +1,7 @@
 David Johnson
 =============
 
-[Projects](#projects) | [Work Experience](#work-experience) | [Education](#education) | [Skills](#skills) | [Hobbies](#hobbies-&-interest)
+[Projects](#projects) | [Work Experience](#work-experience) | [Education](#education) | [Skills](#skills) | [Hobbies & Interests](#hobbies-&-interests)
 
 I've recently fulfilled lifelong ambition to learn to code at the Makers Academy. Having worked as a Creative (Copywriter/Art Director) in the Advertising industry for the past 20 years I am used to coming up with ideas and solutions to business problems. Along the way I've not only concepted ideas for ads, but have also created websites, games and apps. Amazing as this experience has been, I've often felt I would have liked to have been more involved in the making process and this is my reason for wanting to learn to code.
 
@@ -79,7 +79,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 That in some arguable way make you a better software developer or well-rounded person
 
-## Hobbies & Interest
+## Hobbies & Interests
 
 Kickstarter addict - I like backing projects that enhance my interests and hobbies. Everything from the first auto-follow drone to portable tennis ball launchers to retro-compatible lightguns.
 
