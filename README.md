@@ -106,8 +106,10 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies & Interests
 
-Mountain biking and tennis are my two regular sports and are essential part of my weekly wellbeing.  
+Mountain biking - Whatever the weather, you can find me on the trails of Epping Forest most weekends.
 
-Kickstarter addict - I like backing projects that enhance my interests and hobbies. Everything from the first auto-follow drone to portable tennis ball launchers to retro-compatible lightguns.
+Tennis - Still working on my Federer single-handed backhand.
 
-Retro computer/console tinkerer and collector - Buy, fix, mod and enjoy these old machines and their software
+Kickstarter addict - Backed the first auto-follow drone, a portable tennis ball launcher and some retro-compatible lightguns.
+
+Retro computer/console tinkerer and collector - Fix, mod and enjoy these old machines and their software, reliving my youth.
