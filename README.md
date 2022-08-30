@@ -16,7 +16,7 @@ I've recently fulfilled lifelong ambition to learn to code at the Makers Academy
 
 | Name                             | Description                                            | Tech/tools        |
 | -------------------------------- | ------------------------------------------------------ | ----------------- |
-| **[Achoo!](https://github.com/fridayshoes/achoo-hayfever-client-react)** | A Full-Stack web application that uses location-based API pollen data to alert hayfever suffers (via SMS) when the pollen count reaches seriously sneezey levels in their area. Built as part of team project during week 11 & 12 at Makers Academy. | MongoDB (Atlas), Mongoose, ReactJS, Nodejs, Express, Ambee API, SMS, Cypress, JEST, Twilio, HTML, CSS |
+| [**Achoo!**](https://github.com/fridayshoes/achoo-hayfever-client-react)** | A Full-Stack web application that uses location-based API pollen data to alert hayfever suffers (via SMS) when the pollen count reaches seriously sneezey levels in their area. Built as part of team project during week 11 & 12 at Makers Academy. | MongoDB (Atlas), Mongoose, ReactJS, Nodejs, Express, Ambee API, SMS, Cypress, JEST, Twilio, HTML, CSS |
 | [**Acebook**](https://github.com/fridayshoes/acebook-node-priceless)| A Full-Stack keyboard warrior clone of Facebook. Create and login to an secure account (Bcrypt), make posts and comment on other users post. Built as part of a team project during week 8 & 9 at Makers Academy. | Node.js, MongoDB, Mongoose, Express, Handlebars, Cypress, Jest, Bcrypt, HTML, CSS |
 | [**MakersBnB**](https://github.com/fridayshoes/makers_bnb)| A Full-Stack Airbnb clone with user registration, authentication, property listing, property booking and booking confirmation functionality. Built as part of a team project during week 5 at Makers Academy | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS, HTML, CSS |
 | [**Chitter**](https://github.com/fridayshoes/chitter-challenge)| Week 4 Makers solo weekend project (full stack) - Twitter clone with user registration, authentication, and ability to tweet. (WIP) | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS |
@@ -26,13 +26,18 @@ I've recently fulfilled lifelong ambition to learn to code at the Makers Academy
 **Tygur Creative** - 2002 to 2012, 2015 to 2018, 2020 to Present (15 years - London)  
 _Freelance Senior Copywriter & Art Director_
 
-- Concepted ideas, UX, competition mechanics, design and managed production for XBOX MyGig - Website to create your own gig lineup poster to win your own 50k music gig
-- Concepted ideas, UX, competition mechanics, design and managed production for Bulmers Summer Experiements - Facebook social games
+- Experience 1
+- Experience 2
+
+| Project name                     | Description                                            | My involvment     |
+| -------------------------------- | ------------------------------------------------------ | ----------------- |
+| [**XBOX 360 - MyGig**](https://tygur.co.uk/portfolio/my-gig/)** | Website to create your own gig lineup poster to win your own 50k music gig | Concepted ideas, UX, competition mechanics, design and managed production |
+| [**Bulmers - Summer Experiments**](https://tygur.co.uk/portfolio/summer-experiments/) | Facebook social activation games to get people in mood for summer | Concepted ideas, UX, competition mechanics, design and managed production |
 
 **Drive Dentsu, Horizon FCB, Wunderman Thompson & Geommetry** - 2012 to 2015, 2018 - 2020 (5 years - Dubai)  
 _Senior Copywriter & Art Director_
 
-- Concepted ideas, UX, game mechanics, design and managed production for Toyota 86 AR mobile app - An Augmented Reality car racing for iPad and Android
+- Toyota 86 AR mobile app - An Augmented Reality car racing for iPad and Android - Concepted ideas, UX, game mechanics, design and managed production for 
 - Concepted ideas, UX, game mechanics, design and managed production for Thrill City mobile app - A Google maps street racing game
 - Concepted ideas, UX, game mechanics, design and managed production for Passenger 86 - A Facebook profile face changing game
 - Concepted ideas, UX, competition mechanics, design and managed production for Funginner my... - A realtime social picture customisation activation
