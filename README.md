@@ -6,7 +6,7 @@ David Johnson
    <a href="https://www.codewars.com/users/fridayshoes"><img src="https://img.shields.io/badge/Codewars-a83232?style=for-the-badge&logo=codewars&logoColor=white"></a>
 </div>
 
-[Projects](#projects) | [Work Experience](#work-experience) | [Education](#education) | [Skills](#skills) | [Hobbies & Interests](#hobbies-&-interests)
+[Projects](#projects) | [Work History](#work-history) | [Education](#education) | [Skills](#skills) | [Hobbies & Interests](#hobbies-&-interests) |
 
 I've recently fulfilled lifelong ambition to learn to code at the Makers Academy. Having worked as a Creative (Copywriter/Art Director) in the Advertising industry for the past 20 years I am used to coming up with ideas and solutions to business problems. Along the way I've not only concepted ideas for ads, but have also created websites, games and apps. Amazing as this experience has been, I've often felt I would have liked to have been more involved in the making process and this is my reason for wanting to learn to code.
 
@@ -21,7 +21,7 @@ I've recently fulfilled lifelong ambition to learn to code at the Makers Academy
 | [**MakersBnB**](https://github.com/fridayshoes/makers_bnb)| A Full-Stack Airbnb clone with user registration, authentication, property listing, property booking and booking confirmation functionality. Built as part of a team project during week 5 at Makers Academy | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS, HTML, CSS |
 | [**Chitter**](https://github.com/fridayshoes/chitter-challenge)| Week 4 Makers solo weekend project (full stack) - Twitter clone with user registration, authentication, and ability to tweet. (WIP) | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS |
 
-## Work Experience
+## Work History
 
 **Tygur Creative** - 2002 to 2012, 2015 to 2018, 2020 to Present (15 years - London)  
 _Freelance Senior Copywriter & Art Director_
