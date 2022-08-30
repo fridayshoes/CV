@@ -12,7 +12,7 @@ Curious, creative and a constant learner is how I would describe myself.
 
 I have 20+ years experience as a Creative (Copywriter/Art Director) in the Advertising industry, generating ideas and solutions to business problems. Along the way I've not only concepted ideas for ads, but have also produced websites, games, apps and digital experiences.
 
-My transition into a career in tech is driven by my fascination to understand how things work. I want to be able to make tech work more intuitive, useful and efficient for the people that use it. 
+My transition into a career in tech is driven by my fascination to understand how things work. I want to be able to make tech work more useful, efficient and intuitive for the people that use it. 
 
 
 ## Projects
@@ -32,7 +32,7 @@ _Freelance Senior Copywriter & Art Director_
 - Experience 1
 - Experience 2
 
-| Project name                     | Description                                            | My involvment     |
+| Project name                     | Description                                            | My involvement     |
 | -------------------------------- | ------------------------------------------------------ | ----------------- |
 | [**XBOX 360 - MyGig**](https://tygur.co.uk/portfolio/my-gig/) | Website to create your own gig lineup poster to win your own 50k music gig | Concepted ideas, UX, competition mechanics, design and managed production |
 | [**Bulmers - Summer Experiments**](https://tygur.co.uk/portfolio/summer-experiments/) | Facebook social activation games to get people in mood for summer | Concepted ideas, UX, competition mechanics, design and managed production |
@@ -43,7 +43,7 @@ _Senior Copywriter & Art Director_
 - Exp 1
 - Exp 2
 
-| Project name                     | Description                                            | My involvment     |
+| Project name                     | Description                                            | My involvement     |
 | -------------------------------- | ------------------------------------------------------ | ----------------- |
 | [**Toyota 86AR**](https://vimeo.com/106363204?embedded=true&source=vimeo_logo&owner=11437302) | An Augmented Reality car racing game for iPhone/iPad and Android | Concepted ideas, UX, game mechanics, directed design and managed production for. |
 | [**Thrill City**](https://www.youtube.com/watch?v=KnXyG3rDCMw&ab_channel=Toyota86MiddleEast) | Create your own track and race on the real streets of Google maps - iPhone/iPad and Android | Concepted ideas, UX, game mechanics, design and managed production |
@@ -106,8 +106,8 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies & Interests
 
+Mountain biking and tennis are my two regular sports and are essential part of my weekly wellbeing.  
+
 Kickstarter addict - I like backing projects that enhance my interests and hobbies. Everything from the first auto-follow drone to portable tennis ball launchers to retro-compatible lightguns.
 
-Another hobby here
-
-Any cool stuff that makes you a super part of a software development team
+Retro computer/console tinkerer and collector - Buy, fix, mod and enjoy these old machines and their software
