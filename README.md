@@ -8,8 +8,11 @@ David Johnson
 
 [Projects](#projects) | [Work History](#work-history) | [Education](#education) | [Skills](#skills) | [Hobbies & Interests](#hobbies-&-interests) |
 
-I've recently fulfilled lifelong ambition to learn to code at the Makers Academy. Having worked as a Creative (Copywriter/Art Director) in the Advertising industry for the past 20 years I am used to coming up with ideas and solutions to business problems. Along the way I've not only concepted ideas for ads, but have also created websites, games and apps. Amazing as this experience has been, I've often felt I would have liked to have been more involved in the making process and this is my reason for wanting to learn to code.
+Curious, creative and a constant learner is how I would describe myself. 
 
+I have 20+ years experience as a Creative (Copywriter/Art Director) in the Advertising industry, generating ideas and solutions to business problems. Along the way I've not only concepted ideas for ads, but have also produced websites, games, apps and digital experiences.
+
+My transition into a career in tech is driven by my fascination to understand how things work. I want to be able to make tech work more intuitively, useful and efficient for the people that use it. 
 
 
 ## Projects
