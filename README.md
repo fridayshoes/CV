@@ -23,15 +23,22 @@ I've recently fulfilled lifelong ambition to learn to code at the Makers Academy
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Tygur Creative** - 2002 to 2012, 2015 to 2018, 2020 to Present (15 years - London)  
+_Freelance Senior Copywriter & Art Director_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Concepted ideas, UX, competition mechanics, design and managed production for XBOX MyGig - Website to create your own gig lineup poster to win your own 50k music gig
+- Concepted ideas, UX, competition mechanics, design and managed production for Bulmers Summer Experiements - Facebook social games
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Drive Dentsu, Horizon FCB, Wunderman Thompson & Geommetry** - 2012 to 2015, 2018 - 2020 (5 years - Dubai)  
+_Senior Copywriter & Art Director_
 
-- Any experience relevent to software development
+- Concepted ideas, UX, game mechanics, design and managed production for Toyota 86 AR mobile app - An Augmented Reality car racing for iPad and Android
+- Concepted ideas, UX, game mechanics, design and managed production for Thrill City mobile app - A Google maps street racing game
+- Concepted ideas, UX, game mechanics, design and managed production for Passenger 86 - A Facebook profile face changing game
+- Concepted ideas, UX, competition mechanics, design and managed production for Funginner my... - A realtime social picture customisation activation
+- Concepted ideas, UX, competition mechanics, design and managed production for Toyota Lucky Cards - A user-generated social sharing competition
+- Built, designed and produced Drive Dentsu company website using Joomla, customised HTML and CSS
+- Concepted ideas, UX, designand managed production
 
 ## Skills
 
