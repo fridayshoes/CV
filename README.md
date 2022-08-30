@@ -12,7 +12,7 @@ Curious, creative and a constant learner is how I would describe myself.
 
 I have 20+ years experience as a Creative (Copywriter/Art Director) in the Advertising industry, generating ideas and solutions to business problems. Along the way I've not only concepted ideas for ads, but have also produced websites, games, apps and digital experiences.
 
-My transition into a career in tech is driven by my fascination to understand how things work. I want to be able to make tech work more intuitively, useful and efficient for the people that use it. 
+My transition into a career in tech is driven by my fascination to understand how things work. I want to be able to make tech work more intuitive, useful and efficient for the people that use it. 
 
 
 ## Projects
