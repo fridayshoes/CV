@@ -4,7 +4,7 @@ David Johnson
   <a href="https://www.linkedin.com/in/david-johnson-creative/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.codecademy.com/profiles/fridayshoes"><img src="https://img.shields.io/badge/Codecademy-1F4056?logo=codecademy&logoColor=fff&style=for-the-badge"></a>
   <a href="https://www.codewars.com/users/fridayshoes"><img src="https://img.shields.io/badge/Codewars-a83232?style=for-the-badge&logo=codewars&logoColor=white"></a>
-  <a href="https://docs.google.com/document/d/1DW_ejEm_YNm4vpxLObMYT0hZq9MkBSOZ9j12LAF8RgE/edit">[PDF CV]<img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white"></a>
+  <a href="https://docs.google.com/document/d/1DW_ejEm_YNm4vpxLObMYT0hZq9MkBSOZ9j12LAF8RgE/edit"><img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white"></a>
 </div>
 
 [Projects](#projects) | [Work History](#work-history) | [Education](#education) | [Skills](#skills) | [Hobbies & Interests](#hobbies-&-interests) |
