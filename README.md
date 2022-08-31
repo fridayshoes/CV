@@ -133,4 +133,4 @@ Tennis - Getting the perfect Federer single-handed backhand is still the dream.
 
 Kickstarter addict - Backed the first auto-follow drone, a portable tennis ball launcher and some retro-compatible lightguns.
 
-Retro computer/console tinkerer and collector - Fix, mod and enjoy these old machines and their software, reliving my youth.
+Retro computer/console tinkerer and collector - Fix, mod and enjoy these old machines and their software, staying in-touch with the child-within is important.
