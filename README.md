@@ -129,7 +129,7 @@ That in some arguable way make you a better software developer or well-rounded p
 
 Mountain biking - Whatever the weather, you can find me on the trails of Epping Forest most weekends.
 
-Tennis - Still working on my Federer single-handed backhand.
+Tennis - Getting the perfect Federer single-handed backhand is still the dream.
 
 Kickstarter addict - Backed the first auto-follow drone, a portable tennis ball launcher and some retro-compatible lightguns.
 
