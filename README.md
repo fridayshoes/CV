@@ -29,8 +29,10 @@ My transition into a career in tech is driven by my fascination to understand ho
 **Tygur Creative** - 2002 to 2012, 2015 to 2018, 2020 to Present (15 years - London)  
 _Freelance Senior Copywriter & Art Director_
 
-- Experience 1
-- Experience 2
+- Worked at many of London's most reknowned international advertising and marketing agencies, as well local independants and boutiques. 
+- Day-to-day would normally involve working alongside a consistent creative partner to produce concepts that would then be presented to wider team for feedback and improvement.
+- Would present final concepts to client for approval, then would manage and oversee (designers, illustrators, developers) through to final production stage.  
+
 
 | Project name                     | Description                                            | My involvement     |
 | -------------------------------- | ------------------------------------------------------ | ----------------- |
@@ -40,8 +42,8 @@ _Freelance Senior Copywriter & Art Director_
 **Drive Dentsu, Horizon FCB, Wunderman Thompson & Geommetry** - 2012 to 2015, 2018 - 2020 (5 years - Dubai)  
 _Senior Copywriter & Art Director_
 
-- Exp 1
-- Exp 2
+- Applied my industry experience to a new culture and market
+- Worked with multiple creative partners to create, produce and deploy campaigns across multiple regions in the Middle East. 
 
 | Project name                     | Description                                            | My involvement     |
 | -------------------------------- | ------------------------------------------------------ | ----------------- |
@@ -94,11 +96,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Central Saint Martins (Sep 1998 to July 2001)
+#### Makers Academy (May 2022 to August 2022)  
+
+- Fundamentals of object-oriented languages, Ruby and Javascript.
+- Able to write meaningful tests (behaviour vs. state) based on the user requirements.
+- Learnt consistent debugging process to resolve issues.
+- Designed database schemas with SQL and studied the difference between table-oriented databases vs. document-based (MongoDB).
+- Pair programming and group projects using Agile values and principles.
+- Used branch/PR/merge git workflow, code reviews and Github Actions for automated testing.
+- Built single-page and multi-page web applications fetching and updating remote data using JS/Ruby, with and without React.
+- Independent learning and problem-solving throughout
+
+#### Central Saint Martins, University of the Arts London (Sep 1998 to July 2001)
 
 - BA (Hons) Art, Graphic Design & Advertising
 - 2.1
-- Other cool stuff
 
 #### Any other qualifications
 
