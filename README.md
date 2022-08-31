@@ -11,7 +11,7 @@ David Johnson
 
 Curious, creative and a constant learner is how I would describe myself. 
 
-I have 20+ years experience as a Creative (Copywriter/Art Director) in the Advertising industry. My ability to generate ideas and solutions to business problems that make products and services easier to understand for consumers is my key strength. Of course I've produced ads, but I've have also made websites, mobile games, apps and digital experiences too.
+I have 20+ years experience as a Creative (Copywriter/Art Director) in the Advertising industry. My ability to generate ideas and solutions to business problems that make products and services easier to understand for consumers is my key strength. I've made ads of all shapes and sizes, but I've have also created websites, mobile games, apps and digital experiences too.
 
 My transition into a career in code is driven by my fascination to understand how tech works and how to make it work better. I see so many opportunities daily to make tech more useful, efficient and intuitive to use.
 
