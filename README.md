@@ -37,8 +37,8 @@ _Freelance Senior Copywriter & Art Director_
 
 | Project name                     | Description                                            | My involvement     |
 | -------------------------------- | ------------------------------------------------------ | ----------------- |
-| [**XBOX 360 - MyGig**](https://tygur.co.uk/portfolio/my-gig/) | Website to create your own gig lineup poster to win your own 50k music gig | Concepted ideas, UX, competition mechanics, design and managed production |
-| [**Bulmers - Summer Experiments**](https://tygur.co.uk/portfolio/summer-experiments/) | Facebook social activation games to get people in mood for summer | Concepted ideas, UX, competition mechanics, design and managed production |
+| [**XBOX 360 - MyGig**](https://tygur.co.uk/portfolio/my-gig/) | Website to create your own gig lineup poster to win your own 50k music gig | Concepted ideas, UX, competition mechanics, directed design and managed production |
+| [**Bulmers - Summer Experiments**](https://tygur.co.uk/portfolio/summer-experiments/) | Facebook social activation games to get people in mood for summer | Concepted ideas, UX, competition mechanics, directed design and managed production |
 
 **Drive Dentsu, Horizon FCB, Wunderman Thompson & Geommetry** - 2012 to 2015, 2018 - 2020 (5 years - Dubai)  
 _Senior Copywriter & Art Director_
@@ -57,6 +57,14 @@ _Senior Copywriter & Art Director_
 
 
 ## Skills
+
+#### Team Player
+
+Most of my career in advertising has involved working with another person as a creative duo, so when it came to pair programming on the Makers projects and tasks it felt quite a natural and normal experience. Even during the larger group projects I felt comfortable listening to other people's views and offering my opinion or putting forward ideas of my own on how we should approach a task. We applied agile ways of working in our group projects with morning standups, kanban boards and afternoon retros, again most of which I'm already used to from modern advertising working practises.
+
+
+
+
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
