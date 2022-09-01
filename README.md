@@ -127,10 +127,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - BA (Hons) Art, Graphic Design & Advertising
 - 2.1
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
 ## Hobbies & Interests
 
 Mountain biking - Whatever the weather, you can find me on the trails of Epping Forest most weekends.
