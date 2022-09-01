@@ -27,20 +27,7 @@ My transition into a career in code is driven by my fascination to understand ho
 
 ## Work History
 
-**Tygur Creative** - 2002 to 2012, 2015 to 2018, 2020 to Present (15 years - London)  
-_Freelance Senior Copywriter & Art Director_
-
-- Worked at many of London's most reknowned international advertising and marketing agencies, as well local independants and boutiques. 
-- Day-to-day would normally involve working alongside a consistent creative partner to produce concepts that would then be presented to wider team for feedback and improvement.
-- Would present final concepts to client for approval, then would manage and oversee (designers, illustrators, developers) through to final production stage.  
-
-
-| Project name                     | Description                                            | My involvement     |
-| -------------------------------- | ------------------------------------------------------ | ----------------- |
-| [**XBOX 360 - MyGig**](https://tygur.co.uk/portfolio/my-gig/) | Website to create your own gig lineup poster to win your own 50k music gig | Concepted ideas, UX, competition mechanics, directed design and managed production |
-| [**Bulmers - Summer Experiments**](https://tygur.co.uk/portfolio/summer-experiments/) | Facebook social activation games to get people in mood for summer | Concepted ideas, UX, competition mechanics, directed design and managed production |
-
-**Drive Dentsu, Horizon FCB, Wunderman Thompson & Geommetry** - 2012 to 2015, 2018 - 2020 (5 years - Dubai)  
+**Drive Dentsu, Horizon FCB, Wunderman Thompson & Geommetry** - 2012 to 2015, 2018 to 2020 (5 years - Dubai)  
 _Senior Copywriter & Art Director_
 
 - Applied my industry experience to a new culture and market
@@ -54,6 +41,20 @@ _Senior Copywriter & Art Director_
 | [**Fungineer my...**](https://vimeo.com/manage/videos/106359002?embedded=true&source=vimeo_logo&owner=11437302) | A realtime social picture customisation activation. | Concepted ideas, UX, competition mechanics, directed design and managed production |
 | [**Toyota Lucky Cards**](https://www.youtube.com/watch?v=5nhG_RUm7NA&ab_channel=ToyotaLuckyCards) | A user-generated social sharing competition | Concepted ideas, UX, competition mechanics, directed design and managed production |
 | [**Drive Dentsu Website**](https://tygur.co.uk/portfolio/talent-passion-audacity/) | Complete company website to showcase our work and culture | Built, designed and produced in Joomla with customised HTML and CSS |
+
+
+**Tygur Creative** - 2002 to 2012, 2015 to 2018, 2020 to Present (15 years - London)  
+_Freelance Senior Copywriter & Art Director_
+
+- Worked at many of London's most reknowned international advertising and marketing agencies, as well local independants and boutiques. 
+- Day-to-day would normally involve working alongside a consistent creative partner to produce concepts that would then be presented to wider team for feedback and improvement.
+- Would present final concepts to client for approval, then would manage and oversee (designers, illustrators, developers) through to final production stage.  
+
+
+| Project name                     | Description                                            | My involvement     |
+| -------------------------------- | ------------------------------------------------------ | ----------------- |
+| [**XBOX 360 - MyGig**](https://tygur.co.uk/portfolio/my-gig/) | Website to create your own gig lineup poster to win your own 50k music gig | Concepted ideas, UX, competition mechanics, directed design and managed production |
+| [**Bulmers - Summer Experiments**](https://tygur.co.uk/portfolio/summer-experiments/) | Facebook social activation games to get people in mood for summer | Concepted ideas, UX, competition mechanics, directed design and managed production |
 
 
 ## Skills & strengths
