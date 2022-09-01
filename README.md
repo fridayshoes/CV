@@ -62,11 +62,11 @@ _Senior Copywriter & Art Director_
 
 Most of my career in advertising has involved working together alongside another person as a creative duo, so when it came to pair programming on the Makers projects and tasks it felt quite a natural and normal experience. Even during the larger group projects I felt comfortable listening to other people's views and offering my opinion or putting forward ideas of my own on how we should approach a task. We applied agile ways of working in our group projects with morning standups, kanban boards and afternoon retros, again most of which I'm already used to from modern advertising working practises.
 
-#### Empathetic
+#### Empathy
 
-One of the main skills you practise in advertising is to break down complex information into simple, but meaningful messages that your audience will understand and resonate with. I also found this particularly true of coding too. I was always thinking about better method and class names that would best reflect the function of the code. During team projects I would also often comment on key lines in my code to help the other members of the group  
+One of the main skills you practise in advertising is putting your mind inside the mind of the consumer. This often helps you to break down complex information into simple, but meaningful messages that your audience will understand and resonate with. I also found this particularly true of coding too. I was always thinking about better method and class names that would best reflect and communicate the function of the code. During team projects I would also often comment on key lines in my code to help the other members of the group understand the purpose or flow of information. For me, coding is not just about solving a problems, it's about solving problems in a way that makes it easier for other people to contribute to your code and use the final product.  
 
-
+<!--
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
 
@@ -95,6 +95,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+
 ## Education
 
 #### Makers Academy (May 2022 to August 2022)
@@ -105,6 +106,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
+
+-->
 
 #### Makers Academy (May 2022 to August 2022)  
 
