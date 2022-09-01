@@ -96,7 +96,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
 
-## Education
+
 
 #### Makers Academy (May 2022 to August 2022)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
@@ -108,6 +108,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - RSpec, Jasmine
 
 -->
+## Education
 
 #### Makers Academy (May 2022 to August 2022)  
 
