@@ -13,7 +13,7 @@ Curious, creative and a constant learner is how I would describe myself.
 
 My transition into a career in code is driven by my fascination to understand how tech works, how to extract the most from it and how to make it work better. This journey began with Ataris, Amigas and BBSs, building custom PCs, image and video manipulation using Adobe CS, making websites in Wordpress/HTML/CSS, 3D design and printing, hardware emulation, mobile apps and more. But until Makers, the one constant frustration was not knowing how to change or improve what goes on behind the scenes. Now after 16 intensive weeks of Ruby and JS I now feel I have the tools to match my tech enthusiasm and am looking forward to the next chapter to build upon what I have learnt. 
 
-I have 20+ years experience as a Creative (Copywriter/Art Director) in the Advertising industry. My ability to generate ideas and solutions to business problems that make products and services easier to understand for consumers is my key strength. I've made ads of all shapes and sizes, but I've have also created websites, mobile games, apps and digital experiences too.
+Along with my new coding knowhow you get my 20+ years professional experience as a Creative (Copywriter/Art Director) in the Advertising industry. My ability to generate ideas and solutions to business problems that make products and services easier to understand for consumers is one of my key strengths. I've made ads of all shapes and sizes, but I've have also created websites, mobile games, apps and digital experiences too.
 
 
 
