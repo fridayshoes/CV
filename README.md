@@ -13,7 +13,7 @@ Curious, creative and a constant learner is how I would describe myself.
 
 My transition into a career in code is driven by my fascination to understand how tech works, how to extract the most from it and how to make it work better. This journey began with Ataris, Amigas and BBSs, building custom PCs, image and video manipulation using Adobe CS, making websites in Wordpress/HTML/CSS, 3D design and printing, hardware emulation, mobile apps and more. But until Makers, the one constant frustration was not knowing how to change or improve what goes on behind the scenes. Now after 16 intensive weeks of Ruby and JS I now feel I have the tools to match my tech enthusiasm and am looking forward to the next chapter to build upon what I have learnt. 
 
-Along with my new coding knowhow you get my 20+ years professional experience as a Creative (Copywriter/Art Director) in the Advertising industry. My ability to generate ideas and solutions to business problems that make products and services easier to understand for consumers is one of my key strengths. I've made ads of all shapes and sizes, but I've have also created websites, mobile games, apps and digital experiences too.
+Along with my new coding knowhow you get my 20+ years professional experience as a Creative (Copywriter/Art Director) in the Advertising Industry. My ability to generate ideas and solutions to business problems that make products and services easier to understand for consumers is one of my key strengths. I've made ads of all shapes and sizes, but I've have also created websites, mobile games, apps and digital experiences too.
 
 
 
@@ -33,17 +33,7 @@ Along with my new coding knowhow you get my 20+ years professional experience as
 _Senior Copywriter & Art Director_
 
 - Applied my industry experience to a new culture and market
-- Worked with multiple creative partners to create, produce and deploy campaigns across multiple regions in the Middle East. 
-
-| Project name                     | Description                                            | My involvement     |
-| -------------------------------- | ------------------------------------------------------ | ----------------- |
-| [**Toyota 86AR**](https://vimeo.com/106363204?embedded=true&source=vimeo_logo&owner=11437302) | An Augmented Reality car racing game for iPhone/iPad and Android | Concepted ideas, UX, game mechanics, directed design and managed production for. |
-| [**Thrill City**](https://www.youtube.com/watch?v=KnXyG3rDCMw&ab_channel=Toyota86MiddleEast) | Create your own track and race on the real streets of Google maps - iPhone/iPad and Android | Concepted ideas, UX, game mechanics, design and managed production |
-| [**Passenger 86**](https://vimeo.com/107117744?embedded=true&source=video_title&owner=11437302) | Take your mates on a thrilling ride with this profile face changing racing experience on Facebook. | Concepted ideas, UX, game mechanics, directed design and managed production |
-| [**Fungineer my...**](https://vimeo.com/manage/videos/106359002?embedded=true&source=vimeo_logo&owner=11437302) | A realtime social picture customisation activation. | Concepted ideas, UX, competition mechanics, directed design and managed production |
-| [**Toyota Lucky Cards**](https://www.youtube.com/watch?v=5nhG_RUm7NA&ab_channel=ToyotaLuckyCards) | A user-generated social sharing competition | Concepted ideas, UX, competition mechanics, directed design and managed production |
-| [**Drive Dentsu Website**](https://tygur.co.uk/portfolio/talent-passion-audacity/) | Complete company website to showcase our work and culture | Built, designed and produced in Joomla with customised HTML and CSS |
-
+- Worked with multiple senior creative partners to create, produce and deploy campaigns across multiple regions in the Middle East. 
 
 **Tygur Creative** - 2002 to 2012, 2015 to 2018, 2020 to Present (15 years - London)  
 _Freelance Senior Copywriter & Art Director_
@@ -53,10 +43,19 @@ _Freelance Senior Copywriter & Art Director_
 - Would present final concepts to client for approval, then would manage and oversee (designers, illustrators, developers) through to final production stage.  
 
 
-| Project name                     | Description                                            | My involvement     |
+Here's a selection of digital projects that I created during my time in advertising. 
+
+
+| Project name                     | Description                                            | My involvement    |
 | -------------------------------- | ------------------------------------------------------ | ----------------- |
-| [**XBOX 360 - MyGig**](https://tygur.co.uk/portfolio/my-gig/) | Website to create your own gig lineup poster to win your own 50k music gig | Concepted ideas, UX, competition mechanics, directed design and managed production |
-| [**Bulmers - Summer Experiments**](https://tygur.co.uk/portfolio/summer-experiments/) | Facebook social activation games to get people in mood for summer | Concepted ideas, UX, competition mechanics, directed design and managed production |
+| [**Toyota 86AR**](https://vimeo.com/106363204?embedded=true&source=vimeo_logo&owner=11437302) | An Augmented Reality car racing game for iPhone/iPad and Android | Concepted ideas, UX, game mechanics, directed design and managed production working with development team. |
+| [**Thrill City**](https://www.youtube.com/watch?v=KnXyG3rDCMw&ab_channel=Toyota86MiddleEast) | Create your own track and race on the real streets of Google maps - iPhone/iPad and Android | Concepted ideas, UX, game mechanics, design and managed production working with development team. |
+| [**Passenger 86**](https://vimeo.com/107117744?embedded=true&source=video_title&owner=11437302) | Take your mates on a thrilling ride with this profile face changing racing experience on Facebook. | Concepted ideas, UX, game mechanics, directed design and managed production working with development team|
+| [**Fungineer my...**](https://vimeo.com/manage/videos/106359002?embedded=true&source=vimeo_logo&owner=11437302) | A realtime social picture customisation activation. | Concepted ideas, UX, competition mechanics, directed design and managed production working with development team. |
+| [**Toyota Lucky Cards**](https://www.youtube.com/watch?v=5nhG_RUm7NA&ab_channel=ToyotaLuckyCards) | A user-generated social sharing competition | Concepted ideas, UX, competition mechanics, directed design and managed production working with development team. |
+| [**Drive Dentsu Website**](https://tygur.co.uk/portfolio/talent-passion-audacity/) | Complete company website to showcase our work and culture | Built, designed and produced in Joomla with customised HTML and CSS. |
+| [**XBOX 360 - MyGig**](https://tygur.co.uk/portfolio/my-gig/) | Website to create your own gig lineup poster to win your own 50k music gig | Concepted ideas, UX, competition mechanics, directed design and managed production working with development team. |
+| [**Bulmers - Summer Experiments**](https://tygur.co.uk/portfolio/summer-experiments/) | Facebook social activation games to get people in mood for summer | Concepted ideas, UX, competition mechanics, directed design and managed production working with development team. |
 
 
 ## Skills & strengths
