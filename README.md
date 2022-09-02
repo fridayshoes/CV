@@ -7,16 +7,18 @@ David Johnson
   <a href="https://docs.google.com/document/d/1DW_ejEm_YNm4vpxLObMYT0hZq9MkBSOZ9j12LAF8RgE/edit"><img src="https://img.shields.io/badge/PDF CV-EC1C24?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white"></a>
 </div>
 
-[Projects](#projects) | [Work History](#work-history) | [Education](#education) | [Skills](#skills) | [Hobbies & Interests](#hobbies-&-interests) |
+[Projects](#tech-projects) | [Work History](#work-history) | [Education](#education) | [Skills](#skills) | [Hobbies & Interests](#hobbies-&-interests) |
 
 Curious, creative and a constant learner is how I would describe myself. 
 
+My transition into a career in code is driven by my fascination to understand how tech works, how to extract the most from it and how to make it work better. This journey began with Ataris, Amigas and BBSs, building custom PCs, image and video manipulation using Adobe CS, making websites in Wordpress/HTML/CSS, 3D design and printing, hardware emulation, mobile apps and more. But until Makers, the one constant frustration was not knowing how to change or improve what goes on behind the scenes. Now after 16 intensive weeks of Ruby and JS I now feel I have the tools to match my tech enthusiasm and am looking forward to the next chapter to build upon what I have learnt. 
+
 I have 20+ years experience as a Creative (Copywriter/Art Director) in the Advertising industry. My ability to generate ideas and solutions to business problems that make products and services easier to understand for consumers is my key strength. I've made ads of all shapes and sizes, but I've have also created websites, mobile games, apps and digital experiences too.
 
-My transition into a career in code is driven by my fascination to understand how tech works and how to make it work better. I see so many opportunities daily to make tech more useful, efficient and intuitive to use.
 
 
-## Projects
+
+## Tech Projects
 
 | Name                             | Description                                            | Tech/tools        |
 | -------------------------------- | ------------------------------------------------------ | ----------------- |
